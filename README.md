@@ -4,8 +4,8 @@
 React Redux Burger Creator application with firebase database.
 Use buttons **More** and **Less** to increase or decrease amount of ingredients 
 *Cheese*, *Meat*, *Letuce*, *Tomato*.
-Create an account to fill in required infromation and submit an order,
-see your orders or create new ones. 
+Create an account see your orders or create new one by filling
+in required infromation and submiting an order. 
 
 ## Live
 <https://burgerkiing.herokuapp.com/>
@@ -22,9 +22,9 @@ see your orders or create new ones.
 
 ### Desktop
 
-<img src="https://i.ibb.co/k3tSjdD/Screenshot-2019-01-30-at-10-55-26.png" width="480" height="270">
-<img src="https://i.ibb.co/k5QVW2g/Screenshot-2019-01-30-at-11-23-13.png" width="480" height="270" >
-<img src="https://i.ibb.co/Nj9LHwQ/Screenshot-2019-01-30-at-11-23-34.png" width="480" height="270">
+<img src="https://i.ibb.co/k3tSjdD/Screenshot-2019-01-30-at-10-55-26.png" width="640" height="360">
+<img src="https://i.ibb.co/k5QVW2g/Screenshot-2019-01-30-at-11-23-13.png" width="640" height="360" >
+<img src="https://i.ibb.co/Nj9LHwQ/Screenshot-2019-01-30-at-11-23-34.png" width="640" height="360">
 
 
 ### Mobile
