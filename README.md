@@ -33,6 +33,4 @@ in required infromation and submiting an order.
 <img src="https://i.ibb.co/W6g1Dd9/Screenshot-2019-01-30-at-11-17-27.png">
 <img src="https://i.ibb.co/sWTFyBD/Screenshot-2019-01-30-at-11-17-53.png">
 
-**DISCLAIMER:** PROJECT IDEA AND IT'S DESIGN ARE NOT MINE. I FOLLOWED THE [COURSE](course) AND CODED ALONG 
-
-[course]: https://www.udemy.com/react-the-complete-guide-incl-redux/
+**DISCLAIMER:** PROJECT IDEA AND IT'S DESIGN ARE NOT MINE. I FOLLOWED THE [COURSE](https://www.udemy.com/react-the-complete-guide-incl-redux/) AND CODED ALONG
