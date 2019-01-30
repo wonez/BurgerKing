@@ -1,0 +1,16 @@
+.Burger{
+    width: 300px;
+    height: 350px;
+    margin: 0 auto;
+    overflow: scroll;
+}
+
+.Burger *{
+    margin: 0 auto;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+.Burger div:first-child{
+    margin-top: 40px;
+}

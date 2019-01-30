@@ -1,0 +1,72 @@
+.bread-top, .bread-bottom{
+  width: 250px;
+  height: 80px;
+  background: linear-gradient(to right, 
+Peru , #DFB184);
+  border: 3px solid #835528;
+  border-right: 10px solid #835528
+}
+
+.bread-top{
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom: none;
+}
+
+.bread-bottom{
+  height: 50px;
+  border-bottom-left-radius: 20%;
+  border-bottom-right-radius: 20%;
+  border-top: none;
+}
+
+.cheese{
+  width: 300px;
+  height: 15px;
+  background: #FFCC33;
+  border-radius: 10px;
+}
+.meat{
+  width: 250px;
+  height: 20px;
+  border-radius: 100px;
+  background: #9E5B40;
+}
+
+.letuce, .tomato{
+    width: 250px;
+    height: 10px;
+    border-radius: 100px;
+    background: MediumSeaGreen;
+}
+
+.tomato{
+    background: tomato;
+}
+
+.seed{
+  border-radius: 100%;
+  width: 10px;
+  height: 30px;
+  background: white;
+  border: 2px solid #f5f5f5;
+}
+#one{
+  margin: 20px 0 0 40px;
+  transform: rotate(-60deg);
+}
+
+#two{
+  margin: -20px 0 0 90px;
+  transform: rotate(60deg);
+}
+
+#three{
+  margin: -40px 0 0 140px;
+  transform: rotate(-60deg);
+}
+
+#four{
+  margin: -20px 0 0 190px;
+  transform: rotate(60deg);
+}

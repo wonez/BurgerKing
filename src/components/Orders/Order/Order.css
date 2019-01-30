@@ -1,0 +1,34 @@
+.Order{
+    padding: 40px;
+    padding-bottom: 0;
+    box-sizing: border-box;
+}
+.Order p{
+    margin: 0;
+    margin-left: 15px;
+}
+.InsideDiv{
+    display: flex;
+}
+.Border{
+    display: flex;
+    padding: 10px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    border-bottom: 1px solid darkcyan;
+}
+
+@media (max-width: 600px){
+    .InsideDiv{
+        flex-direction: column;
+    }
+    .Order p{
+        padding-top: 10px;
+    }
+    .Order {
+        padding: 10px;
+        padding-bottom: 0;
+    }
+}

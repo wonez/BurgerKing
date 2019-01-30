@@ -1,0 +1,25 @@
+.NavContainer{
+    width: 100%;
+    height: 56px;
+    background:goldenrod;
+    z-index: 90;
+    position: fixed;
+}
+.Navigation {
+    margin: 0 1%;
+    display: flex;
+    width: 98%;
+    height: 56px;
+    position: fixed;
+    border-bottom: 2px solid;
+    color: white;
+    z-index: 91;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (max-width: 500px){
+    .Navigation nav{
+        display: none;
+    }
+}

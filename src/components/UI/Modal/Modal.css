@@ -1,0 +1,27 @@
+.Modal{
+    width: 50%;
+    left: 25%;
+    top: 25%;
+    z-index: 500;
+    position: fixed;
+    padding: 20px;
+    background: goldenrod;
+    box-shadow: 5px 5px 5px Sienna;
+    box-sizing: border-box;
+    color: white;
+    transition: all 0.3s ease-out;
+    opacity: 0;
+    transform: translateY(-100vh);
+}
+
+.Show{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+@media (max-width: 700px){
+    .Modal{
+        width: 80%;
+        left: 10%;
+    }
+}

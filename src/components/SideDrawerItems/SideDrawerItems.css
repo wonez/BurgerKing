@@ -1,0 +1,27 @@
+.SideDrawerItems{
+    padding: 20px;
+}
+.Logo{
+    width: 100px;
+    height: 90px;
+    margin: 0 auto;
+}
+.SideDrawerItems ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.SideDrawerItems ul li{
+    display: block;
+}
+
+.SideDrawerItems ul li a{
+    color: Sienna;
+    font-weight: bold;
+    border-bottom: 4px solid lightcoral;
+}
+.SideDrawerItems ul li a:hover {
+    border-bottom-color: mediumseagreen;
+    background: transparent;
+}

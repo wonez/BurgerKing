@@ -1,0 +1,47 @@
+.Control{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.Control h2{
+    width: 100px;
+    text-align: left;
+}
+
+.Btn{
+    outline: none;
+    border: none;
+    color: white;
+    background: Peru;
+    margin: 20px 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.Btn:hover{
+    background: Sienna;
+    cursor: pointer;
+    color: goldenrod;
+}
+
+.Btn:disabled{
+    background: #eee;
+    color: #999;
+    cursor: not-allowed;
+}
+
+.Btn:disabled:hover{
+    background: #eee;
+    color: #999;
+    cursor: not-allowed;
+}
+
+.Less{
+    background: Sienna;
+}
+
+.Less:hover{
+    background: Peru;
+}

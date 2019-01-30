@@ -1,0 +1,22 @@
+.ModalBurger{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.Btn{
+    outline: none;
+    border: none;
+    color: white;
+    background: Peru;
+    margin: 20px 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.Btn:hover{
+    background: Sienna;
+    cursor: pointer;
+    color: goldenrod;
+}
